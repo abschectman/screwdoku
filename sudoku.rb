@@ -1,4 +1,4 @@
-require_relative "board"
+require_relative "/Users/aa/Desktop/screwedoku/lib/board"
 
 class SudokuGame
   def self.from_file(filename)
